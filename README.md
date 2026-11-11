@@ -31,7 +31,7 @@ After years on the receiving end of corporate disclosures, I want to help build 
 
 ## 💼 Professional Highlights
 
-- **Associate Product Owner** – CDP (global role, Berlin / London), owning the Benchmark Report
+- **Associate Product Owner** – CDP (global role, Berlin / London)
 - **Senior Reporter Services Manager** – CDP (climate disclosure support for reporting companies)
 - **Logistics Associate** – Wayfair (Berlin)
 - **Account Manager** – Huntsman (UK)
@@ -42,7 +42,7 @@ After years on the receiving end of corporate disclosures, I want to help build 
 
 - **MSc Renewable Energy Enterprise and Management** – Newcastle University (Merit)
 - **BA Modern Languages** – Nottingham Trent University
-- **Diploma in Greenhouse Gas Management** – GHG Management Institute (in progress)
+- **Diploma in Greenhouse Gas Management** – GHG Management Institute
 - **Climate Policy Mitigation & Modelling** (postgraduate course) – Universidad de Chile
 
 ---
