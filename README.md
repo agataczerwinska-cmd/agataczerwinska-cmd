@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a sustainability professional with around eight years of experience, including close to five years at **CDP**, where I supported companies through **climate disclosure** and moved into **product management** as Associate Product Owner of the Benchmark Report.
+I am a sustainability professional with around eight years of experience, including close to five years at **CDP**, where I supported companies through **climate disclosure** and moved into **product management** as Associate Product Owner.
 
 My work connects **carbon accounting**, **sustainability reporting**, and **product management**, with a focus on turning disclosure requirements into data products companies can act on.
 
