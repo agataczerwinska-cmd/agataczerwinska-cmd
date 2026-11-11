@@ -3,16 +3,19 @@
 **Climate Disclosure & ESG Reporting | Product Management | GHG Accounting**<br>
 🌍 Open to remote roles across the UK & Europe | 🇵🇱 Originally from Poland
 
-Current Project: 📊 [Chile GHG Calculator App](https://chile-ghg-calculator.streamlit.app/)
+ Current Project: 📊 [Chile GHG Calculator App](https://chile-ghg-calculator.streamlit.app/)
 
 
 ---
 
 ## About Me
 
-I am a sustainability professional with around eight years of experience, including close to five years at **CDP**, where I supported companies through **climate disclosure** and moved into **product management** as Associate Product Owner of the Benchmark Report.<br>
-My work connects **carbon accounting**, **sustainability reporting** and **product management**, with a focus on turning disclosure requirements into data products companies can act on.<br>
-After years on the receiving end of corporate disclosures, I want to help build the reporting from inside a company and bring the best practice I saw there to more organisations. 
+I am a sustainability professional with around eight years of experience, including close to five years at **CDP**, where I supported companies through **climate disclosure** and moved into **product management** as Associate Product Owner of the Benchmark Report.
+
+My work connects **carbon accounting**, **sustainability reporting**, and **product management**, with a focus on turning disclosure requirements into data products companies can act on.
+
+After years on the receiving end of corporate disclosures, I want to help build the reporting from inside a company and bring the best practice I saw there to more organisations.
+
 ---
 
 ## 🔍 Areas of Expertise
