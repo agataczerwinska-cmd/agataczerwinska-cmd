@@ -3,6 +3,7 @@
 **Climate Disclosure & ESG Reporting | Product Management | GHG Accounting**<br>
 🌍 Open to remote roles across the UK & Europe | 🇵🇱 Originally from Poland
 
+Current Project: chile-ghg-calculator.streamlit.app/
 ---
 
 ## About Me
