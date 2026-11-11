@@ -46,3 +46,4 @@ After years on the receiving end of corporate disclosures, I want to help build 
 
 - Analysing Chile's RETC emissions register with SQL and Tableau, through a GHG Protocol lens
 - Python for data analysis
+- Building a GHG emissions calculator for Chile (IPCC 2006, Streamlit) alongside a climate mitigation policy course at Universidad de Chile
